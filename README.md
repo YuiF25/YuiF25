@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 À propos
 
 - 🎓 Étudiant à **l'ESAIP** (Aix-en-Provence), 4ème année, spécialité **Informatique & Réseaux**
@@ -46,17 +44,6 @@
 | [Nom du projet 1](https://github.com/TON-USERNAME/projet-1) | Courte description | Java |
 | [Nom du projet 2](https://github.com/TON-USERNAME/projet-2) | Courte description | ESP32 / C |
 | [Nom du projet 3](https://github.com/TON-USERNAME/projet-3) | Courte description | Python |
-
-## 📊 Stats GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
