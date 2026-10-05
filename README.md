@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est Hugo
 
-### Élève ingénieur en Informatique & Réseaux — majeure Cybersécurité 🔐
+### Élève ingénieur en Informatique & Réseaux - majeure Cybersécurité 🔐
 
 <!-- 🎞️ TON GIF : remplace l'URL ci-dessous (voir les instructions dans le chat) -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="400"/>
